@@ -1,4 +1,3 @@
-layout_spectrum: 0.9550986341200769
 typography_spectrum: 0.3562584694009274
 color:
   brandStrength: 0.39524325425736606
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.9550986341200769
 name: Fibre Life
 title: Twisted Life
+description: One yarn at a time
